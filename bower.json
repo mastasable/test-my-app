@@ -1,0 +1,19 @@
+{
+  "name": "my_app",
+  "version": "0.0.0",
+  "authors": [
+    "Aleksandr Sobol <bonpet666@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "normalize.css": "~3.0.2",
+    "jquery": "1.8"
+  }
+}
